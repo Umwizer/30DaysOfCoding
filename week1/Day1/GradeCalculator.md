@@ -33,8 +33,9 @@ if/else, methods, user input
 - Score is a decimal (e.g. 84.5)
 
 ## Challenges
-(What got you stuck?)
+1. Validation of handling more decimal values of marks
 
 ## Lessons Learned
-(What do you know now that you didn't before starting?)
+1. how to use  math.bigdecimal to handle errors which can be caused by decimals and setting the values they can't go above or low
+2. Using Class as Return type 
 
