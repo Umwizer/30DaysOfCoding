@@ -19,4 +19,6 @@
 4. If attendance is invalid handle the case
 
 ## Challenges
+1. Validation
 ## What you've learned 
+2. Looping for the program to be still running 
