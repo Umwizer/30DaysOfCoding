@@ -10,7 +10,7 @@ public class Main {
             ValidationResult result = AttencanceChecker.validateAttendance(attendance);
             if (result.isValid()) {
                 AttencanceChecker checker = new AttencanceChecker(attendance);
-                String eligibility = checker.checkAttendance();
+              String eligibility = checker.checkAttendance();
                 System.out.println(eligibility);
             } else {
                 System.out.println("Error: " + result.getMessage());
